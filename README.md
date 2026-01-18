@@ -2,7 +2,6 @@
 
 🎓 3rd-year Undergraduate at **University of Colombo School of Computing**  
 💻 Passionate about **Software Engineering Principles, DevOps Principles, and Containerization Research**  
-🚀 Always learning, building, and exploring modern tech stacks  
 
 ---
 
